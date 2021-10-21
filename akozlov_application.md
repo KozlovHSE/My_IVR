@@ -32,13 +32,13 @@
 * МИНИМАЛЬНЫЕ мистемные требования идентичны требованиям каждой конкретной DAW
 * Место на диске ~ 60 мб
 * DAW:
-*Ableton Live 9 или более поздние
-*Avid Pro Tools 11 или более поздние
-*Cakewalk by Bandlab
-*Propellerhead Reason 9.5 или более поздние
-*Reaper 4/5
-*Steinberg Cubase 8 или более поздние
-*Image Line FL Studio 20 или более поздние 
+* Ableton Live 9 или более поздние
+* Avid Pro Tools 11 или более поздние
+* Cakewalk by Bandlab
+* Propellerhead Reason 9.5 или более поздние
+* Reaper 4/5
+* Steinberg Cubase 8 или более поздние
+* Image Line FL Studio 20 или более поздние 
 
 **[ ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ ]**
 
